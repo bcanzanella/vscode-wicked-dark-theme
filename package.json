@@ -1,0 +1,25 @@
+{
+    "name": "vscode-wicked-dark-theme",
+    "publisher": "bcanzanella",
+    "displayName": "Wicked Dark",
+    "description": "Wicked dark theme",
+    "repository": {
+        "url": "https://github.com/bcanzanella/vscode-wicked-dark-theme"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wicked Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wicked_dark_theme-color-theme.json"
+            }
+        ]
+    }
+}
