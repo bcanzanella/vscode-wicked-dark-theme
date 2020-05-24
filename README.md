@@ -2,12 +2,14 @@
 
 Color scheme inspired by the dark... the wicked dark.
 
+![screenshot](screenshot.png)
+
 ## Install
 
 This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bcanzanella.vscode-wicked-dark-theme):
 1. On VS Code go to **View -> Command Palette**
 2. Then enter **Install Extension**
-3. Write **Wicked Dark Theme**
+3. Type **Wicked Dark**
 4. Select it or press Enter to install
 
 ## Improvements

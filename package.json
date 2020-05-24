@@ -1,12 +1,15 @@
 {
     "name": "vscode-wicked-dark-theme",
     "publisher": "bcanzanella",
+    "author": "Brian Canzanella <briancanzanella@gmail.com>",
+    "license": "MIT",
     "displayName": "Wicked Dark",
-    "description": "Wicked dark theme",
+    "description": "A wicked dark theme",
+    "homepage": "https://github.com/bcanzanella/vscode-wicked-dark-theme/blob/master/README.md",
     "repository": {
         "url": "https://github.com/bcanzanella/vscode-wicked-dark-theme"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -16,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Wicked Dark Theme",
+                "label": "Wicked Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/wicked_dark_theme-color-theme.json"
             }
